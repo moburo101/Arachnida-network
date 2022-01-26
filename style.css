@@ -1,0 +1,21 @@
+body{
+    background-image: url('images/rocket.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: 'raleway', helvetica, sans-serif;
+    text-align: center;
+    min-height: 100vh;
+    width: auto;
+}
+
+h1{
+    font-size: 60px;
+}
+
+p{
+    display: inline;
+    font-size: 100px;
+    width: fit-content;
+}
+
