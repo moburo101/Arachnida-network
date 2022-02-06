@@ -1,0 +1,11 @@
+.admin{
+    background-color: #f2f2f2;
+}
+
+.admin > h2{
+    text-align: center;
+}
+
+.admin > p{
+    text-align: center;
+}
